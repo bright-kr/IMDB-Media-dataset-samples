@@ -1,4 +1,4 @@
-# IMDB Media Dataset Sample
+# IMDB Media 데이터셋 샘플
 
 <h2>1,021개 레코드로 구성된 샘플 데이터셋</h2>
 
